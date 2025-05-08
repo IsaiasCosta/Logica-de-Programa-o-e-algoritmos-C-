@@ -1,0 +1,7 @@
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 11\bin\Debug\Exercício 11.exe.config
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 11\bin\Debug\Exercício 11.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 11\bin\Debug\Exercício 11.pdb
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 11\obj\Debug\Exercício 11.csproj.AssemblyReference.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 11\obj\Debug\Exercício 11.csproj.CoreCompileInputs.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 11\obj\Debug\Exercício 11.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 11\obj\Debug\Exercício 11.pdb

@@ -1,0 +1,7 @@
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 05\bin\Debug\Exercício 05.exe.config
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 05\bin\Debug\Exercício 05.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 05\bin\Debug\Exercício 05.pdb
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 05\obj\Debug\Exercício 05.csproj.AssemblyReference.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 05\obj\Debug\Exercício 05.csproj.CoreCompileInputs.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 05\obj\Debug\Exercício 05.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 05\obj\Debug\Exercício 05.pdb
