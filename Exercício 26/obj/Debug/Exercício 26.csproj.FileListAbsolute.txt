@@ -1,0 +1,7 @@
+D:\Projetos\Logica de Programa o e algoritmos C#\Exercício 26\bin\Debug\Exercício 26.exe.config
+D:\Projetos\Logica de Programa o e algoritmos C#\Exercício 26\bin\Debug\Exercício 26.exe
+D:\Projetos\Logica de Programa o e algoritmos C#\Exercício 26\bin\Debug\Exercício 26.pdb
+D:\Projetos\Logica de Programa o e algoritmos C#\Exercício 26\obj\Debug\Exercício 26.csproj.AssemblyReference.cache
+D:\Projetos\Logica de Programa o e algoritmos C#\Exercício 26\obj\Debug\Exercício 26.csproj.CoreCompileInputs.cache
+D:\Projetos\Logica de Programa o e algoritmos C#\Exercício 26\obj\Debug\Exercício 26.exe
+D:\Projetos\Logica de Programa o e algoritmos C#\Exercício 26\obj\Debug\Exercício 26.pdb

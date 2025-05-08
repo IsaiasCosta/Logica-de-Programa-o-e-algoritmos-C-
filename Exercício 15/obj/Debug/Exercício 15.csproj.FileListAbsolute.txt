@@ -1,0 +1,7 @@
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 15\bin\Debug\Exercício 15.exe.config
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 15\bin\Debug\Exercício 15.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 15\bin\Debug\Exercício 15.pdb
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 15\obj\Debug\Exercício 15.csproj.AssemblyReference.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 15\obj\Debug\Exercício 15.csproj.CoreCompileInputs.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 15\obj\Debug\Exercício 15.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 15\obj\Debug\Exercício 15.pdb

@@ -1,0 +1,7 @@
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 22\bin\Debug\Exercício 22.exe.config
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 22\bin\Debug\Exercício 22.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 22\bin\Debug\Exercício 22.pdb
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 22\obj\Debug\Exercício 22.csproj.AssemblyReference.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 22\obj\Debug\Exercício 22.csproj.CoreCompileInputs.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 22\obj\Debug\Exercício 22.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 22\obj\Debug\Exercício 22.pdb

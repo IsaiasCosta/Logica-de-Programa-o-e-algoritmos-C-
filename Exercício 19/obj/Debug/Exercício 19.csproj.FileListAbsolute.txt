@@ -1,0 +1,7 @@
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 19\bin\Debug\Exercício 19.exe.config
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 19\bin\Debug\Exercício 19.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 19\bin\Debug\Exercício 19.pdb
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 19\obj\Debug\Exercício 19.csproj.AssemblyReference.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 19\obj\Debug\Exercício 19.csproj.CoreCompileInputs.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 19\obj\Debug\Exercício 19.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 19\obj\Debug\Exercício 19.pdb

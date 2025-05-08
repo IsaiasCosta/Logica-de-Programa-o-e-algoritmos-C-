@@ -1,0 +1,7 @@
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 10\bin\Debug\Exercício 10.exe.config
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 10\bin\Debug\Exercício 10.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 10\bin\Debug\Exercício 10.pdb
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 10\obj\Debug\Exercício 10.csproj.AssemblyReference.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 10\obj\Debug\Exercício 10.csproj.CoreCompileInputs.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 10\obj\Debug\Exercício 10.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 10\obj\Debug\Exercício 10.pdb

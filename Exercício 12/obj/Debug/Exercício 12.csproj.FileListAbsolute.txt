@@ -1,0 +1,7 @@
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 12\bin\Debug\Exercício 12.exe.config
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 12\bin\Debug\Exercício 12.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 12\bin\Debug\Exercício 12.pdb
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 12\obj\Debug\Exercício 12.csproj.AssemblyReference.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 12\obj\Debug\Exercício 12.csproj.CoreCompileInputs.cache
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 12\obj\Debug\Exercício 12.exe
+C:\Users\ics\Documents\Lógica e Algoritmos com C#\Exercício 12\obj\Debug\Exercício 12.pdb
